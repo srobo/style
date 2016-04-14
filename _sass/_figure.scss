@@ -1,0 +1,18 @@
+figure {
+  display: inline-block;
+  padding: 1em;
+  margin: 0 auto;
+  max-width: 49%;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+figcaption {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}

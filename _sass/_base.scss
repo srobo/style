@@ -1,0 +1,59 @@
+@import "brand/colors";
+@import "brand/fonts";
+@import "headers";
+@import "grid";
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: $main-font-family;
+    background-color: $sr-grey;
+    margin: 0;
+    padding: 0;
+}
+
+.fixed-width {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 0 10px;
+
+    @include media-query(large) {
+        padding: 0;
+    }
+}
+
+.anchor {
+    visibility: hidden;
+}
+
+header {
+    background: $sr-blue;
+    color: $sr-white;
+    padding: 0.5em 0;
+
+    @include headings() {
+        a {
+            color: $sr-white;
+            text-decoration: none;
+
+            &:hover {
+                color: $sr-white;
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+section {
+    padding: 0.5em 10px 2em;
+
+    &:nth-of-type(odd) {
+        background: white;
+    }
+}
+
+.pull-right {
+    text-align: right;
+}

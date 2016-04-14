@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section>
+  <div class="fixed-width">
+    <h2>Table of Contents</h2>
+    <ol>
+      {% for section in site.sections %}
+      <li>
+        <a href="#{{ section.identifier }}">{{ section.title }}</a>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+{% for section in site.sections %}
+  <section>
+    <div class="fixed-width">
+      <h2><a class="anchor" id="{{ section.identifier }}"></a> {{ section.title }}</h2>
+      {{ section.content }}
+    </div>
+  </section>
+{% endfor %}

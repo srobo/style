@@ -1,0 +1,17 @@
+@import "brand/fonts";
+@import "brand/colors";
+
+@mixin headings($from: 1, $to: 6) {
+  @for $i from $from through $to {
+    h#{$i} {
+      @content
+    }
+  }
+}
+
+@include headings() {
+  color: $sr-blue;
+  font-family: $heading-font-family;
+  font-weight: normal;
+  text-transform: uppercase;
+}

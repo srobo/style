@@ -1,0 +1,9 @@
+@import "brand/colors";
+
+a {
+  color: $sr-orange;
+
+  &:hover {
+    color: $sr-blue;
+  }
+}

@@ -1,0 +1,35 @@
+@import "brand/colors";
+
+.color-swatch {
+  align-items: flex-end;
+  border: 5px solid $sr-white;
+  color: $sr-white;
+  display: inline-flex;
+  font-size: 0.8em;
+  height: 8em;
+  padding: 0.5em;
+  margin: 1em 1em 0 0;
+  width: 8em;
+}
+
+.color-swatch-blue {
+  @extend .color-swatch;
+  background-color: $sr-blue;
+}
+
+.color-swatch-orange {
+  @extend .color-swatch;
+  background-color: $sr-orange;
+}
+
+.color-swatch-grey {
+  @extend .color-swatch;
+  background-color: $sr-grey;
+  color: $sr-blue;
+}
+
+.color-swatch-white {
+  @extend .color-swatch;
+  background-color: $sr-white;
+  color: $sr-blue;
+}
