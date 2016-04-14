@@ -13,7 +13,7 @@ Guidelines regarding use of the logo are as follows:
 #### In Context
 
 * The logo must not be used to impersonate Student Robotics. Student Robotics 
-  is registered charity 1163168 in England and Wales.
+  is a registered charity 1163168 in England and Wales.
 
 * The logo shouldn't imply any sort of relationship, or endorsement, of anything
   unless you've received written confirmation from the Student Robotics PR team.
