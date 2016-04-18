@@ -3,8 +3,6 @@ identifier: logo
 title: The Logo
 ---
 
-### Logo
-
 {% include image.html class="d-4-12" src="/style/assets/logo.svg" %}
 {% include image.html class="d-4-12" src="/style/assets/logo-black.svg" %}
 {% include image.html class="d-4-12 dark-bg" src="/style/assets/logo-white.svg" %}
