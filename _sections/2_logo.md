@@ -4,7 +4,7 @@ title: The Logo
 ---
 
 {% include image.html src="/style/assets/logo.svg" caption="The Student Robotics logo" %}
-{% include image.html src="/style/assets/logo-with-text.svg" caption="The Student Robotics logo with text" %}
+{% include image.html src="/style/assets/logo-text-outline.svg" caption="The Student Robotics logo with text" %}
 
 ### Using the logo
 
