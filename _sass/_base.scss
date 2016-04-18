@@ -49,7 +49,7 @@ header {
 section {
     padding: 0.5em 10px 2em;
 
-    &:nth-of-type(odd) {
+    &:nth-of-type(even) {
         background: white;
     }
 }
