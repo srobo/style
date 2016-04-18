@@ -9,4 +9,4 @@ experience, which means people know what to expect from our content.
 
 ### Headers should be in [Oswald](//www.google.com/fonts/specimen/Oswald).
 
-Normal text should ideally be in Helvetica Neue.
+Normal text should ideally be in Open Sans.
