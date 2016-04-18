@@ -20,12 +20,13 @@ Guidelines regarding use of the logo are as follows:
 * The logo must not be used to impersonate Student Robotics. Student Robotics 
   is a registered charity (1163168) in England and Wales.
 
-* The logo shouldn't imply any sort of relationship, or endorsement, of anything
-  unless you've received written confirmation from the Student Robotics PR team.
-  To get in touch regarding this, please email 
+* The logo shouldn't imply any sort of relationship with, or endorsement of, 
+  anything or anyone unless you've received written confirmation from
+  Student Robotics. To get in touch regarding this, please email 
   [pr@studentrobotics.org](mailto:pr@studentrobotics.org).
 
-* There should be sufficient spacing around the logo.
+* There should be sufficient spacing around the logo so as to make it not look 
+  cramped. We recommend spacing of approximately 5% of the size of the logo.
 
 * The logo should be placed on a background which complements the colours. Do
   not, for example, place the blue logo on a similarly coloured blue background.
