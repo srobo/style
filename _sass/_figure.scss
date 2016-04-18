@@ -1,8 +1,10 @@
+@import "colors";
+
 figure {
+  //border: 0.5em solid $sr-grey;
   display: inline-block;
-  padding: 1em;
-  margin: 0 auto;
-  max-width: 49%;
+  padding: 10px;
+  margin: 0 auto 10px;
 
   img {
     width: 100%;
@@ -15,4 +17,10 @@ figcaption {
   font-weight: bold;
   text-align: center;
   margin-top: 10px;
+}
+
+
+
+.dark-bg {
+  background: $sr-blue;
 }

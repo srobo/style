@@ -3,8 +3,15 @@ identifier: logo
 title: The Logo
 ---
 
-{% include image.html src="/style/assets/logo.svg" caption="The Student Robotics logo" %}
-{% include image.html src="/style/assets/logo-text-outline.svg" caption="The Student Robotics logo with text" %}
+### Logo
+
+{% include image.html class="d-4-12" src="/style/assets/logo.svg" %}
+{% include image.html class="d-4-12" src="/style/assets/logo-black.svg" %}
+{% include image.html class="d-4-12 dark-bg" src="/style/assets/logo-white.svg" %}
+
+{% include image.html class="d-4-12" src="/style/assets/logo-text.svg" %}
+{% include image.html class="d-4-12" src="/style/assets/logo-text-black.svg" %}
+{% include image.html class="d-4-12 dark-bg" src="/style/assets/logo-text-white.svg" %}
 
 ### Using the logo
 
