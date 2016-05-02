@@ -12,24 +12,6 @@
   width: 8em;
 }
 
-.color-swatch-blue {
-  @extend .color-swatch;
-  background-color: $sr-blue;
-}
-
-.color-swatch-orange {
-  @extend .color-swatch;
-  background-color: $sr-orange;
-}
-
-.color-swatch-grey {
-  @extend .color-swatch;
-  background-color: $sr-grey;
-  color: $sr-blue;
-}
-
-.color-swatch-white {
-  @extend .color-swatch;
-  background-color: $sr-white;
+.color-swatch-dark-text {
   color: $sr-blue;
 }
