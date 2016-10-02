@@ -19,6 +19,8 @@ TICKS_PER_FRAME = QUARTER_ROTATION_DURATION_MS / (NUM_FRAMES * IMAGEMAGIC_TICK_L
 # Portions of a quarter turn counter-clockwise
 DEGREES_PER_FRAME = -90 / NUM_FRAMES
 
+WIDTH, HEIGHT = (52, 52)
+
 
 def create_frame_svg(bld_dir, template, frame_id):
 
@@ -46,6 +48,8 @@ def create_png_from_svg(svg_file):
     subprocess.check_call([
         'inkscape',
         '--export-png={}'.format(png_file),
+        '--export-width={}'.format(WIDTH),
+        '--export-height={}'.format(HEIGHT),
         svg_file,
     ])
 
