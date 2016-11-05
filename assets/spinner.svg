@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="480"
+   version="1.0"
+   id="svg4169"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="spinner.svg">
+  <metadata
+     id="metadata4181">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4179" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1439"
+     inkscape:window-height="800"
+     id="namedview4177"
+     showgrid="false"
+     inkscape:zoom="1.5268769"
+     inkscape:cx="240"
+     inkscape:cy="240"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="spinner-ring" />
+  <rect
+     y="0"
+     x="0"
+     height="480"
+     width="480"
+     id="background"
+     style="fill:#253571;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:32;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="sr-logo"
+     d="m 240.28465,125.9485 c -0.94379,-0.002 -1.25123,0.28301 -1.71388,0.30678 -0.9253,0.0475 -1.38412,0.11714 -1.79104,0.17451 -0.81383,0.11473 -1.30046,0.21433 -1.82777,0.32147 -1.05462,0.21428 -2.1264,0.46359 -3.44063,0.78438 -2.62846,0.6416 -6.11671,1.55382 -10.41188,2.74074 -8.59034,2.37385 -20.33978,5.82796 -33.76147,10.14736 -26.84337,8.63881 -60.22501,20.63472 -88.27507,34.65975 a 17.730633,17.730633 0 0 0 -1.047066,31.14748 c 25.736946,15.10646 46.913996,27.34769 68.309156,37.55663 -40.06431,17.83163 -69.977115,42.60092 -69.977115,42.60092 a 17.730633,17.730633 0 1 0 22.236385,27.62052 c 0,0 55.22702,-42.72266 103.05157,-50.96827 a 17.730633,17.730633 0 0 0 2.34764,-34.37135 c -27.76213,-8.80262 -50.11494,-19.82761 -77.97891,-35.60394 17.74943,-7.17301 36.16532,-13.73063 52.19535,-18.88945 12.92032,-4.15806 24.2663,-7.48868 32.34517,-9.72119 3.68316,-1.0178 6.45532,-1.73444 8.54737,-2.25395 2.34746,0.63034 5.58561,1.50525 9.64588,2.63604 8.27075,2.30341 19.73761,5.60692 32.77319,9.70466 16.0815,5.05521 34.48937,11.4489 52.19167,18.47797 -27.23494,15.17742 -49.16677,25.65163 -78.39957,36.313 a 17.730633,17.730633 0 0 0 3.87414,34.24643 c 19.98293,2.49787 46.38414,14.86447 66.7404,27.02168 20.35626,12.15721 34.68548,23.45796 34.68548,23.45796 a 17.730633,17.730633 0 1 0 21.96451,-27.83543 c 0,0 -16.07262,-12.68866 -38.4696,-26.06463 -9.42867,-5.63101 -20.01791,-11.45422 -31.26504,-16.6355 21.59934,-10.23301 42.7311,-21.84278 69.15232,-37.35089 a 17.730633,17.730633 0 0 0 -1.04706,-31.14563 c -28.16238,-14.0812 -61.7766,-25.81936 -88.79494,-34.31256 -13.50917,-4.24661 -25.34138,-7.654 -33.89188,-10.03531 -4.27527,-1.19066 -7.73303,-2.12441 -10.14553,-2.77197 -1.20626,-0.32379 -2.1557,-0.57794 -2.77932,-0.74581 -0.31182,-0.0839 -0.54854,-0.14828 -0.64293,-0.17451 -0.0944,-0.0263 -1.15603,-0.47678 1.12788,0.37842 -3.00402,-1.12486 -4.58361,-1.41428 -5.52741,-1.41631 z m -5.09204,35.20165 c 0.28201,0.0783 0.56755,0.15587 0.91663,0.24983 0.36209,0.0975 0.96629,0.25864 1.45487,0.38943 -0.58655,-0.10058 -1.41333,-0.3375 -2.3715,-0.63926 z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:37.70000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  <g
+     id="spinner-ring">
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ring-chunk"
+       sodipodi:type="arc"
+       sodipodi:cx="240"
+       sodipodi:cy="240.00003"
+       sodipodi:rx="218.60034"
+       sodipodi:ry="218.60034"
+       sodipodi:start="0.26179939"
+       sodipodi:end="1.3089969"
+       d="M 451.15172,296.57796 A 218.60034,218.60034 0 0 1 296.57794,451.15174"
+       sodipodi:open="true" />
+    <use
+       transform="matrix(0,1,-1,0,480.00002,2e-5)"
+       x="0"
+       y="0"
+       xlink:href="#ring-chunk"
+       id="chunk-1"
+       width="100%"
+       height="100%" />
+    <use
+       transform="matrix(-1,0,0,-1,480.00001,480)"
+       x="0"
+       y="0"
+       xlink:href="#ring-chunk"
+       id="chunk-2"
+       width="100%"
+       height="100%" />
+    <use
+       transform="matrix(0,-1,1,0,-2e-5,480.00002)"
+       x="0"
+       y="0"
+       xlink:href="#ring-chunk"
+       id="chunk-3"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
