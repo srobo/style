@@ -8,3 +8,9 @@ url: "http://studentrobotics.github.io"
 markdown: kramdown
 collections:
   - sections
+
+social:
+  facebook-official: https://facebook.com/StudentRobotics
+  twitter: https://twitter.com/studentrobotics
+  youtube: https://youtube.com/user/StudentRobotics
+  github: https://github.com/srobo

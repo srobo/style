@@ -1,15 +1,10 @@
-@import "brand/colors";
-@import "brand/fonts";
-@import "headers";
-@import "grid";
-
 * {
     box-sizing: border-box;
 }
 
 html, body {
     font-family: $main-font-family;
-    background-color: $sr-grey;
+    background-color: $sr-light-grey;
     margin: 0;
     padding: 0;
 }
@@ -34,6 +29,8 @@ header {
     padding: 0.5em 0;
 
     @include headings() {
+        font-family: $hero-font-family;
+
         a {
             color: $sr-white;
             text-decoration: none;

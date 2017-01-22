@@ -1,12 +1,13 @@
-@import "brand/fonts";
-@import "brand/colors";
-
 @mixin headings($from: 1, $to: 6) {
   @for $i from $from through $to {
     h#{$i} {
       @content
     }
   }
+}
+
+.hero-text {
+  font-family: $hero-font-family;
 }
 
 @include headings() {
