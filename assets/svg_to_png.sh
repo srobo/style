@@ -11,7 +11,13 @@ if [ $# -lt 2 ]; then
     exit 1 # error
 fi
 
-# Make sure you have inkscape installed!
+if [ -z "$(which inkscape)" ]
+then
+    echo 'Inkscape not found on $PATH. Is it installed?'
+    exit 1
+fi
+
+
 filename=$1
 size=$2
 inkscape -f "$filename" -e "$(basename "$filename" .svg).png" -w="$size"
