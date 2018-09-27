@@ -20,4 +20,4 @@ fi
 
 filename=$1
 size=$2
-inkscape -f "$filename" -e "$(basename "$filename" .svg).png" -w="$size"
+inkscape --file="$filename" --export-png="$(basename "$filename" .svg).png" --export-width="$size"
