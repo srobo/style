@@ -3,7 +3,7 @@
 # produces a file named file.png in the current dir
 
 function usage_and_example {
-    echo -e "usage: ./to_png.sh SVG_FILE WIDTH\n  example: ./to_png.sh logo-text.png 666"
+    echo -e "usage: $(basename $0) SVG_FILE WIDTH\n  example: ./to_png.sh logo-text.png 666"
 }
 
 if [ $# -lt 2 ]; then
