@@ -1,9 +1,14 @@
 #!/bin/bash
-# (1000 is the width in px)
-# produces a file named file.png in the current dir
-
 function usage_and_example {
-    echo -e "usage:\n  $(basename $0) SVG_FILE WIDTH\n(WIDTH is in pixels)\nexample:\n  ./$(basename $0) logo-text.svg 666"
+    echo -e "\
+description:
+  Produces a png version of the given svg file
+  at the given width in the current directory.
+usage:
+  $(basename $0) SVG_FILE WIDTH
+  (WIDTH is in pixels)
+example:
+  ./$(basename $0) logo-text.svg 666"
 }
 
 if [ $# -lt 2 ]; then
