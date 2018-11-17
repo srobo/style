@@ -3,7 +3,7 @@
 # produces a file named file.png in the current dir
 
 function usage_and_example {
-    echo -e "usage: $(basename $0) SVG_FILE WIDTH\n  example: ./$(basename $0) logo-text.svg 666"
+    echo -e "usage:\n  $(basename $0) SVG_FILE WIDTH\n(WIDTH is in pixels)\nexample:\n  ./$(basename $0) logo-text.svg 666"
 }
 
 if [ $# -lt 2 ]; then
