@@ -14,3 +14,10 @@ social:
   twitter: https://twitter.com/studentrobotics
   youtube: https://youtube.com/user/StudentRobotics
   github: https://github.com/srobo
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - gems/

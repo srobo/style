@@ -1,5 +1,7 @@
 /assets/bld
 /assets/spinner.gif
+/gems
 _site
 .sass-cache
 .jekyll-metadata
+.bundle
