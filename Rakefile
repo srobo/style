@@ -31,5 +31,5 @@ task :validate => [:build] do
   # --empty-alt-ignore  # To avoid needing to fix lots upfront, we can migrate towards this later.
   # --allow-hash-href   # Allow empty `#` links to mean "top of page". It's true that these can be errors, however we have far too many to really address this.
   # --url-swap          # Adjust for Jekyll's baseurl. See https://github.com/gjtorikian/html-proofer/issues/618 for more.
-  sh('bundle exec htmlproofer _site --assume-extension --disable-external --empty-alt-ignore --url-swap "^/style/:/"')
+  sh('bundle exec htmlproofer _site --assume-extension --disable-external --empty-alt-ignore --allow-hash-href --url-swap "^/style/:/"')
 end
