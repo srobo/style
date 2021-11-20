@@ -11,11 +11,30 @@ markdown: kramdown
 collections:
   - sections
 
+links:
+  compete: //docs.google.com/forms/d/1Ryg2cfAxfwMOBnT01aj-fzsp51F3B182S5e53ye8aMw/viewform
+  volunteer: //docs.google.com/forms/d/1MIGf3P30dw0QAtP8OkxK2v7VRDEAN_54JoZHCVMbqDY/viewform
+  donate: //link.justgiving.com/v1/charity/donate/charityId/3118662?tipScheme=TipJar2.1&isRecurring=true&amount=20.00&reference=givingcheckout_tj21
+
 social:
-  facebook-official: https://facebook.com/StudentRobotics
-  twitter: https://twitter.com/studentrobotics
-  youtube: https://youtube.com/user/StudentRobotics
-  github: https://github.com/srobo
+  - title: GitHub
+    icon: github
+    link: https://github.com/srobo
+  - title: Twitter
+    icon: twitter
+    link: https://twitter.com/studentrobotics
+  - title: YouTube
+    icon: youtube-play
+    link: https://youtube.com/user/StudentRobotics
+  - title: Instagram
+    icon: instagram
+    link: https://www.instagram.com/student_robotics/
+  - title: Facebook
+    icon: facebook-official
+    link: https://facebook.com/StudentRobotics
+  - title: LinkedIn
+    icon: linkedin
+    link: https://www.linkedin.com/company/10969472/
 
 exclude:
   - README.md
@@ -23,3 +42,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - gems/
+  - vendor/

@@ -5,3 +5,6 @@ gem 'rake'
 gem 'jekyll', 3.9
 # jekyll depends on kramdown-parser-gfm, but fails to declare it
 gem 'kramdown-parser-gfm'
+
+# For testing output
+gem 'html-proofer'
