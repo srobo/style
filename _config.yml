@@ -1,10 +1,12 @@
+baseurl: /style
+url: https://studentrobotics.org
+
 title: Student Robotics Style Guide
 description: >
   This is the Student Robotics Style Guide. This site will provide guidance on
   how best to use official Student Robotics assets, as well as how to design
   products which fit with the Student Robotics brand.
-baseurl: "/style"
-url: "http://studentrobotics.github.io"
+
 markdown: kramdown
 collections:
   - sections
