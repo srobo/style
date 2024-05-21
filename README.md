@@ -24,4 +24,4 @@ When you've made a change, either push it to a forked repository, or to a
 feature branch, and [raise a pull request][raise-a-pr].
 
 [install-ruby]: https://www.ruby-lang.org/en/documentation/installation/
-[raise-a-pr]: https://github.com/srobo/style/pull/new/master
+[raise-a-pr]: https://github.com/srobo/style/pull/new/main
