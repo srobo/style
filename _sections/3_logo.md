@@ -11,6 +11,11 @@ title: The Logo
 {% include image.html class="column m-4-12" src="/style/assets/logo-text-black.svg" %}
 {% include image.html class="column m-4-12 dark-bg" src="/style/assets/logo-text-white.svg" %}
 
+{% include image.html class="column m-4-12" src="/style/assets/logo-text-font-vertical.svg" %}
+{% include image.html class="column m-4-12" src="/style/assets/logo-text-black-vertical.svg" %}
+{% include image.html class="column m-4-12 dark-bg" src="/style/assets/logo-text-white-vertical.svg" %}
+
+
 The font used in the logo is [Quicksand][quicksand].
 
 ### Using the logo
